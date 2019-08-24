@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+
+form
+{
+    width: 1024px;
+}
+input
+{
+    width: 100%;
+    height: 100%;
+    background: #f7f7f7;
+    border: none;
+    padding-left: 20px;
+    outline: none;
+}
+textarea
+{
+    width: 100%;
+    height: 100%;
+    background: #f7f7f7;
+    border: none;
+    padding-left: 20px; 
+    max-height: 105px;
+    outline: none;
+    resize: vertical;
+}
+.firstname
+{
+    width: 170px;   
+    height: 42px;
+    float: left;
+    margin-left: 526px;
+    margin-top: 60px; 
+}
+.lastname
+{
+    width: 170px;   
+    height: 42px;
+    float: right;
+    margin-right: 130px;
+    margin-top: 60px;
+}
+.email
+{
+    float: left;
+    width: 368px;   
+    height: 42px;
+    margin-left: 526px;
+    margin-top: 10px; 
+}
+.message
+{
+    float: left;
+    width: 368px;   
+    height: 105px;
+    margin-left: 526px;
+    margin-top: 10px; 
+}
+.email_2
+{
+    float: left;
+    width: 252px;   
+    height: 42px;
+    background: #41403e;
+}
+.send
+{
+    width: 150px;
+    height: 42px;
+    float: left;
+    margin-left: 526px;
+    margin-top: 10px;
+}
+button
+{
+    outline: none;
+    border: none;
+}
